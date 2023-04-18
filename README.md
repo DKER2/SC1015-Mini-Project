@@ -20,7 +20,7 @@ This README briefly highlights what we have solved in this project. To gain a mo
 1. [Problem and Objective](#1-Problem-and-Objective)
 2. [Data Preparation and Cleaning](#2-Data-Preparation-and-Cleaning)
 3. [Exploratory Data Analysis](#3-Exploratory-Data-Analysis)
-4. [Supervised Method](#4-Supervise-Method)
+4. [Supervised Method](#4-Supervised-Method)
 5. [Unsupervised Method](#5-Unsupervised-Method)
 6. [Data Driven Insights and Conclusion](#6-Data-Driven-Insights-and-Conclusion)
 ---
