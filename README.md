@@ -24,7 +24,7 @@ This README briefly highlights what we have solved in this project. To gain a mo
 5. [Unsupervised Method](#5-Unsupervised-Method)
 6. [Outcomes and Insights](#6-Outcomes-and-Insights)
 7. [References](#7-References)
-8. [Individual Contributions](#8-[Individual-Contributions)
+8. [Individual Contributions](#8-Individual-Contributions)
 ---
 ### 1. Problem and Objective
 
@@ -65,20 +65,20 @@ Here we utilize unspervised methods to cluster group of driver:
 2. DBSCAN 
 
 ### 6. Outcomes and Insights
-## Outcome for Supervised Learning
+##### Outcome for Supervised Learning
 * High model accuracy obtained
 * Helpful for teams to predict driver performance.
 
-## Outcome for Unsupervised Learning
+##### Outcome for Unsupervised Learning
 * K means predicted that none of the newer drivers shares the same characteristics as top drivers, DBSCAN does.
 * However, it might not be accurate to say that they all have the potential to become successful drivers due to varying traits.
 
-## Data-driven Insights
+##### Data-driven Insights
 * Based on the correlation matrix, the points obtained by the driver are highly correlated to the age and grid of the driver.
 * Based on the DBSCAN clustering model may show that younger drivers are more likely to win more often than older drivers.
 * Highlight to teams: focus on the potential of younger drivers and placing well in qualifying races.
 
-## Main learning points
+##### Main learning points
 * Polynomial regression could result in a better fit on the training set, but it risks worse performance on the validation set
 * It is very important to prepare data properly for clustering
 * Learnt more about the different types of clustering models and their algorithms
