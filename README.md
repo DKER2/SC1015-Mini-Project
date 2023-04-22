@@ -22,7 +22,7 @@ This README briefly highlights what we have solved in this project. To gain a mo
 3. [Exploratory Data Analysis](#3-Exploratory-Data-Analysis)
 4. [Supervised Method](#4-Supervised-Method)
 5. [Unsupervised Method](#5-Unsupervised-Method)
-6. [Data Driven Insights and Conclusion](#6-Data-Driven-Insights-and-Conclusion)
+6. [Outcomes and Insights](#6-Outcomes-and-Insights)
 ---
 ### 1. Problem and Objective
 
@@ -62,22 +62,18 @@ Here we utilize unspervised methods to cluster group of driver:
 1. Kmeans Cluster
 2. DBSCAN 
 
-### 6. Data Driven Insights and Conclusion
-
+### 6. Outcomes and Insights
 ## Outcome for Supervised Learning
-* Due to the high model accuracy obtained, we can confidently use our model to predict Which driver will finish in the top position in the Driver’s Championship at the end of the season based on their past performance.
-* This information might be helpful for teams to predict their drivers’ performance ahead of time, allowing them to plan ahead for their future driver lineups to maximise their success.
+* High model accuracy obtained
+* Helpful for teams to predict driver performance.
 
 ## Outcome for Unsupervised Learning
-Using K-means and DBSCAN clustering, we produced 2 models to cluster our drivers. They predicted different clusters, and we could owe it to the difference in their algorithms.
-* K-means clustering is not ideal for categorical data, as it assumes continuous data, in which k-modes clustering could be used instead.
-* Different clustering algorithms have different strengths. DBSCAN is density-based and can find clusters of any shape, while K-means is centroid-based and requires specifying the number of clusters.
-* After predicting which cluster our newer drivers would be, it was interesting to see that while K means predicted that none of the newer drivers shares the same characteristics as top drivers, DBSCAN does.
-* However, F1 drivers vary in so many traits that we feel like the spread of each cluster was too big and it encompassed too many different demographics of drivers, thus it might not be accurate to say that they all have the potential to become successful drivers.
+* K means predicted that none of the newer drivers shares the same characteristics as top drivers, DBSCAN does.
+* However, it might not be accurate to say that they all have the potential to become successful drivers due to varying traits.
 
 ## Data-driven Insights
-* Based on the correlation matrix, the points obtained by the driver are highly correlated to the age and grid of the driver, 0.25 and 0.37, respectively.
-* Based on the DBSCAN clustering model,  the average age of the top cluster was 59. When compared to the other cluster’s 84, it may show that younger drivers are more likely to win more often than older drivers.
+* Based on the correlation matrix, the points obtained by the driver are highly correlated to the age and grid of the driver.
+* Based on the DBSCAN clustering model may show that younger drivers are more likely to win more often than older drivers.
 * Highlight to teams: focus on the potential of younger drivers and placing well in qualifying races.
 
 ## Main learning points
