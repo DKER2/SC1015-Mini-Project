@@ -23,7 +23,8 @@ This README briefly highlights what we have solved in this project. To gain a mo
 4. [Supervised Method](#4-Supervised-Method)
 5. [Unsupervised Method](#5-Unsupervised-Method)
 6. [Outcomes and Insights](#6-Outcomes-and-Insights)
-7. [References] (#7-References)
+7. [References]
+8. [Individual Contributions]
 ---
 ### 1. Problem and Objective
 
@@ -99,3 +100,10 @@ Parkes, I. (2022, November 10). F1 shook up tradition by adding sprint races. Th
 
 **Further information**
 * What is the difference between K-means and DBSCAN. Tutorials Point. (n.d.). Retrieved April 22, 2023, from https://www.tutorialspoint.com/what-is-the-difference-between-k-means-and-dbscan#:~:text=K%2Dmeans%20needs%20a%20prototype,influenced%20by%20noise%20or%20outliers.
+
+### 8.  Individual Contributions
+* Our Motivation: Clara Heng Yih Xian
+* Exploratory Data Analysis: Dang Huy Phuong
+* Supervised Learning: Dang Huy Phuong
+* Unsupervised Learning: Clara Heng Yih Xian
+* Outcome and Insights: Dang Huy Phuong, Clara Heng Yih Xian
