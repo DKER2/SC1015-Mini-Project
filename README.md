@@ -23,6 +23,7 @@ This README briefly highlights what we have solved in this project. To gain a mo
 4. [Supervised Method](#4-Supervised-Method)
 5. [Unsupervised Method](#5-Unsupervised-Method)
 6. [Outcomes and Insights](#6-Outcomes-and-Insights)
+7. [References] (#7-References)
 ---
 ### 1. Problem and Objective
 
@@ -80,3 +81,20 @@ Here we utilize unspervised methods to cluster group of driver:
 * Polynomial regression could result in a better fit on the training set, but it risks worse performance on the validation set
 * It is very important to prepare data properly for clustering
 * Learnt more about the different types of clustering models and their algorithms
+
+
+### 7. References
+
+Dataset:
+Vopani. (2023, March 7). Formula 1 World Championship (1950 - 2023). Kaggle. Retrieved April 22, 2023, from https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
+Slides template:
+
+Data science project proposal presentation. Slidesgo. (n.d.). Retrieved April 22, 2023, from https://slidesgo.com/theme/data-science-project-proposal#search-data+science&position-3&results-8&rs=search.
+
+Pictures in slides:
+Miles, B. (2022, September 12). Updated: 2022 F1 calendar and standings: GRR. Goodwood. Retrieved April 22, 2023, from https://www.goodwood.com/grr/race/modern/2021/7/2022-f1-calendar/
+Vopani. (2023, March 7). Formula 1 World Championship (1950 - 2023). Kaggle. Retrieved April 22, 2023, from https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
+The 10 best formula 1 drivers ever: Hamilton, senna & more. The 10 best Formula 1 drivers ever: Hamilton, Senna & more. (2023, March 19). Retrieved April 22, 2023, from https://www.autosport.com/f1/news/whos-the-best-formula-1-driver-schumacher-hamilton-senna-more-4983210/4983210/
+Parkes, I. (2022, November 10). F1 shook up tradition by adding sprint races. The New York Times. Retrieved April 22, 2023, from https://www.nytimes.com/2022/11/10/sports/autoracing/formula1-sprint-debate.html
+
+What is the difference between K-means and DBSCAN. Tutorials Point. (n.d.). Retrieved April 22, 2023, from https://www.tutorialspoint.com/what-is-the-difference-between-k-means-and-dbscan#:~:text=K%2Dmeans%20needs%20a%20prototype,influenced%20by%20noise%20or%20outliers.
