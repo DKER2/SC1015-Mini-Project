@@ -23,8 +23,8 @@ This README briefly highlights what we have solved in this project. To gain a mo
 4. [Supervised Method](#4-Supervised-Method)
 5. [Unsupervised Method](#5-Unsupervised-Method)
 6. [Outcomes and Insights](#6-Outcomes-and-Insights)
-7. [References]
-8. [Individual Contributions]
+7. [References](#7-References)
+8. [Individual Contributions](#8-[Individual-Contributions)
 ---
 ### 1. Problem and Objective
 
