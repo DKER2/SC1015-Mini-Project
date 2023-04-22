@@ -84,7 +84,7 @@ Here we utilize unspervised methods to cluster group of driver:
 * Learnt more about the different types of clustering models and their algorithms
 
 
-### 7.  References
+### 7. References
 
 **Dataset**
 * Vopani. (2023, March 7). Formula 1 World Championship (1950 - 2023). Kaggle. Retrieved April 22, 2023, from https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
@@ -101,7 +101,7 @@ Parkes, I. (2022, November 10). F1 shook up tradition by adding sprint races. Th
 **Further information**
 * What is the difference between K-means and DBSCAN. Tutorials Point. (n.d.). Retrieved April 22, 2023, from https://www.tutorialspoint.com/what-is-the-difference-between-k-means-and-dbscan#:~:text=K%2Dmeans%20needs%20a%20prototype,influenced%20by%20noise%20or%20outliers.
 
-### 8.  Individual Contributions
+### 8. Individual Contributions
 * Our Motivation: Clara Heng Yih Xian
 * Exploratory Data Analysis: Dang Huy Phuong
 * Supervised Learning: Dang Huy Phuong
